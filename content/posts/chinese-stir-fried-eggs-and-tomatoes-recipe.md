@@ -1,6 +1,8 @@
 ---
 title: "Chinese Stir Fried Eggs and Tomatoes Recipe"
 date: 2018-02-23T21:26:25+08:00
+subtitle: ""
+tags: []
 ---
 
 ![Chinese Stir Fried Eggs and Tomatoes Recipe](https://res.cloudinary.com/chinesedishes/image/upload/v1519393495/maxresdefault.jpg)
