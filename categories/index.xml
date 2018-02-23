@@ -6,6 +6,8 @@
     <description>Recent content in Categories on Chinese dishes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
     
 	<atom:link href="https://whiteworld.github.io/chinese-dishes/categories/index.xml" rel="self" type="application/rss+xml" />
     
