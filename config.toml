@@ -2,5 +2,5 @@
 baseURL = "https://whiteworld.github.io/chinese-dishes/"
 languageCode = "en-us"
 title = "Chinese dishes"
-theme = "ananke"
+theme = "beautifulhugo"
 disqusShortname = "chinese-dishes"
