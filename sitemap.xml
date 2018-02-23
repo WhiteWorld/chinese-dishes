@@ -3,12 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://whiteworld.github.io/chinese-dishes/posts/chinese-stir-fried-eggs-and-tomatoes-recipe/</loc>
+    <lastmod>2018-02-23T21:26:25+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://whiteworld.github.io/chinese-dishes/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://whiteworld.github.io/chinese-dishes/</loc>
+    <lastmod>2018-02-23T21:26:25+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://whiteworld.github.io/chinese-dishes/posts/</loc>
+    <lastmod>2018-02-23T21:26:25+08:00</lastmod>
     <priority>0</priority>
   </url>
   
