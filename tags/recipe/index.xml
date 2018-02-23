@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Chinese dishes</title>
-    <link>https://whiteworld.github.io/chinese-dishes/post/</link>
-    <description>Recent content in Posts on Chinese dishes</description>
+    <title>Recipe on Chinese dishes</title>
+    <link>https://whiteworld.github.io/chinese-dishes/tags/recipe/</link>
+    <description>Recent content in Recipe on Chinese dishes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>ljq258@gmail.com (White World)</managingEditor>
     <webMaster>ljq258@gmail.com (White World)</webMaster>
     <lastBuildDate>Fri, 23 Feb 2018 21:26:25 +0800</lastBuildDate>
     
-	<atom:link href="https://whiteworld.github.io/chinese-dishes/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://whiteworld.github.io/chinese-dishes/tags/recipe/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
