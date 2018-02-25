@@ -1,7 +1,6 @@
 ---
 title: "Mapo Tofu Recipe"
 date: 2018-02-25T20:16:22+08:00
-draft: true
 subtitle: "How to cook Chinese Mapo Tofu ?"
 tags: ['mapo', 'tofu', 'recipe']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Chinese Stir Fried Potato Slices"
 date: 2018-02-25T20:30:52+08:00
-draft: true
+subtitle: "How to cook Chinese Stir Fried Potato Slices ?"
 tags: ["potato", "slices", "recipe", "stir-fry"]
 ---
 
