@@ -1,4 +1,4 @@
-baseURL = "www.chinesedishes.net"
+baseURL = "www.chinesedishes.net/"
 languageCode = "en-us"
 title = "Chinese dishes"
 theme = "beautifulhugo"
