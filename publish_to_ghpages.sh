@@ -25,5 +25,6 @@ echo "Generating site"
 hugo
 
 echo "Updating gh-pages branch"
+echo 'www.chinesedishes.net' > public/CNAME
 cd public && git add --all && git commit -m "Publishing to gh-pages (publish.sh)" && cd ..
 git push origin gh-pages
