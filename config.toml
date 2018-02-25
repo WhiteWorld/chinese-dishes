@@ -1,4 +1,4 @@
-baseURL = "https://whiteworld.github.io/chinese-dishes/"
+baseURL = "www.chinesedishes.net"
 languageCode = "en-us"
 title = "Chinese dishes"
 theme = "beautifulhugo"
