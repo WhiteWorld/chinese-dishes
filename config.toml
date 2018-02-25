@@ -9,7 +9,7 @@ googleAnalytics = "UA-46354580-3"
 
 [Params]
   subtitle = "Learn how to cook delicious Chinese food"
-  #logo = "img/avatar-icon.png"
+  logo = "img/avatar-icon.png"
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = false
