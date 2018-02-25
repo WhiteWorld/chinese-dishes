@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Chinese dishes</title>
-    <link>https://whiteworld.github.io/chinese-dishes/categories/</link>
+    <link>www.chinesedishes.net/categories/</link>
     <description>Recent content in Categories on Chinese dishes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>ljq258@gmail.com (White World)</managingEditor>
     <webMaster>ljq258@gmail.com (White World)</webMaster>
     
-	<atom:link href="https://whiteworld.github.io/chinese-dishes/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="www.chinesedishes.net/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
