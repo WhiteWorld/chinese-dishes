@@ -1,7 +1,7 @@
 ---
 title: "Chinese Stir Fried Eggs and Tomatoes Recipe"
 date: 2018-02-23T21:26:25+08:00
-subtitle: ""
+subtitle: "How to cook Chinese Stir Fried Eggs and Tomatoes ?"
 tags: ["tomatoes", "eggs", "recipe", "stir-fry"]
 ---
 
