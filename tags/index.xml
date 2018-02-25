@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Chinese dishes</title>
-    <link>www.chinesedishes.net/tags/</link>
+    <link>http://www.chinesedishes.net/tags/</link>
     <description>Recent content in Tags on Chinese dishes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -10,42 +10,42 @@
     <webMaster>ljq258@gmail.com (White World)</webMaster>
     <lastBuildDate>Fri, 23 Feb 2018 21:26:25 +0800</lastBuildDate>
     
-	<atom:link href="www.chinesedishes.net/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.chinesedishes.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Eggs</title>
-      <link>www.chinesedishes.net/tags/eggs/</link>
+      <link>http://www.chinesedishes.net/tags/eggs/</link>
       <pubDate>Fri, 23 Feb 2018 21:26:25 +0800</pubDate>
       <author>ljq258@gmail.com (White World)</author>
-      <guid>www.chinesedishes.net/tags/eggs/</guid>
+      <guid>http://www.chinesedishes.net/tags/eggs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recipe</title>
-      <link>www.chinesedishes.net/tags/recipe/</link>
+      <link>http://www.chinesedishes.net/tags/recipe/</link>
       <pubDate>Fri, 23 Feb 2018 21:26:25 +0800</pubDate>
       <author>ljq258@gmail.com (White World)</author>
-      <guid>www.chinesedishes.net/tags/recipe/</guid>
+      <guid>http://www.chinesedishes.net/tags/recipe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stir Fry</title>
-      <link>www.chinesedishes.net/tags/stir-fry/</link>
+      <link>http://www.chinesedishes.net/tags/stir-fry/</link>
       <pubDate>Fri, 23 Feb 2018 21:26:25 +0800</pubDate>
       <author>ljq258@gmail.com (White World)</author>
-      <guid>www.chinesedishes.net/tags/stir-fry/</guid>
+      <guid>http://www.chinesedishes.net/tags/stir-fry/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tomatoes</title>
-      <link>www.chinesedishes.net/tags/tomatoes/</link>
+      <link>http://www.chinesedishes.net/tags/tomatoes/</link>
       <pubDate>Fri, 23 Feb 2018 21:26:25 +0800</pubDate>
       <author>ljq258@gmail.com (White World)</author>
-      <guid>www.chinesedishes.net/tags/tomatoes/</guid>
+      <guid>http://www.chinesedishes.net/tags/tomatoes/</guid>
       <description></description>
     </item>
     
