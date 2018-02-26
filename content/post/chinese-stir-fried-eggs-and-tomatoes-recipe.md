@@ -33,3 +33,8 @@ tags: ["tomatoes", "eggs", "recipe", "stir-fry"]
 ## Special Equipment
 
 wok
+
+
+## Video
+
+{{<youtube Oj9_luDe7EE>}}

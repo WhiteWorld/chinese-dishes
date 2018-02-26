@@ -39,3 +39,7 @@ tags: ['mapo', 'tofu', 'recipe']
 3. Add the double-boiled soup and diced tofu, and use a moderate heat to cook till tasty. 
 4. Add the garlic sprouts and soy sauce, cook for a few seconds and thicken with the starchy sauce. (Add chicken powder if you like.)
 5. Serve in a shallow bowl, topped with chili powder and chopped spring green onions.
+
+## Video
+
+{{<youtube ZfsZwwrTFD4>}}

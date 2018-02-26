@@ -21,3 +21,7 @@ tags: ["potato", "slices", "recipe", "stir-fry"]
 - When the oil is heating up, add in sliced potato.
 - Add in couple of teaspoon of cumin seeds, stir well with potato slices.
 - When the surface of the potato is getting dry, even a little bit ‘burnt’, it is done.
+
+## Video
+
+{{<youtube 7DyPpUQQuHA>}}
