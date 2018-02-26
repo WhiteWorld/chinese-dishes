@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.chinesedishes.net/post/chow-mein/</loc>
+    <lastmod>2018-02-26T22:35:07+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.chinesedishes.net/post/chinese-stir-fried-potato-slices/</loc>
     <lastmod>2018-02-25T20:30:52+08:00</lastmod>
   </url>
@@ -24,7 +29,13 @@
   
   <url>
     <loc>http://www.chinesedishes.net/</loc>
-    <lastmod>2018-02-25T20:30:52+08:00</lastmod>
+    <lastmod>2018-02-26T22:35:07+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.chinesedishes.net/tags/chow-mein/</loc>
+    <lastmod>2018-02-26T22:35:07+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -42,7 +53,7 @@
   
   <url>
     <loc>http://www.chinesedishes.net/post/</loc>
-    <lastmod>2018-02-25T20:30:52+08:00</lastmod>
+    <lastmod>2018-02-26T22:35:07+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -54,7 +65,7 @@
   
   <url>
     <loc>http://www.chinesedishes.net/tags/recipe/</loc>
-    <lastmod>2018-02-25T20:30:52+08:00</lastmod>
+    <lastmod>2018-02-26T22:35:07+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -72,7 +83,7 @@
   
   <url>
     <loc>http://www.chinesedishes.net/tags/</loc>
-    <lastmod>2018-02-23T21:26:25+08:00</lastmod>
+    <lastmod>2018-02-26T22:35:07+08:00</lastmod>
     <priority>0</priority>
   </url>
   
